@@ -1,0 +1,1 @@
+export class Modal{constructor(o){this.o=o;}open(){const d=document.createElement('div');d.innerHTML=this.o.content;document.body.appendChild(d);}}

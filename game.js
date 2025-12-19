@@ -1,0 +1,1 @@
+export class MiniGame{async mount(){const d=document.createElement('div');d.innerText='Game';return d;}start(){}}

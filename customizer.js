@@ -1,0 +1,1 @@
+export class Customizer{async mount(){const d=document.createElement('div');d.innerText='Customizer';return d;}bind(){}}

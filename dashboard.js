@@ -1,0 +1,1 @@
+export class Dashboard{async mount(){const d=document.createElement('div');d.innerHTML='Dashboard Loaded';return d;}bind(){}}

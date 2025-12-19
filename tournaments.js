@@ -1,0 +1,1 @@
+export class Tournaments{async mount(){const d=document.createElement('div');d.innerHTML='Tournaments Loaded';return d;}bind(){}}
